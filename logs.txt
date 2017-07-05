@@ -1,0 +1,23 @@
+commit 13dd85d71182e12b5d2ab972e218776b0183d5ad
+Author: Priscilla Benito Anselmo <pba_deagh@hotmail.com>
+Date:   Tue Jul 4 09:52:15 2017 -0600
+
+    se agrego bootstrap
+
+commit 2f8d568d2b452584aedbf68a19fc281ab1c48072
+Author: Priscilla Benito Anselmo <pba_deagh@hotmail.com>
+Date:   Tue Jul 4 09:48:03 2017 -0600
+
+    se agrego una imagen
+
+commit 589f8be15343601adae89379348b5e5b9bdf0370
+Author: Priscilla Benito Anselmo <pba_deagh@hotmail.com>
+Date:   Tue Jul 4 09:41:36 2017 -0600
+
+    titulo y parrafo
+
+commit 90d15b7092b681575b296eee570740d803a3369d
+Author: Priscilla Benito Anselmo <pba_deagh@hotmail.com>
+Date:   Tue Jul 4 09:36:49 2017 -0600
+
+    primer commit
